@@ -1,4 +1,4 @@
-# TTT-EndRoundMusic
+# TTT-EndRoundMusic-Example
 End Round Music addon for Garry's Mod Trouble in Terrorist Town gamemode.
 
 <br>
