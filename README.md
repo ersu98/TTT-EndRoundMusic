@@ -7,11 +7,6 @@ End Round Music addon for Garry's Mod Trouble in Terrorist Town gamemode.
 http://ulyssesmod.net/downloads.php
 
 <br>
-
-**Place the lua inside your servers addons folder!**
-```
-server\garrysmod\addons\new_folder\endroundmusic.lua
-```
 <br>
 
 **You will also need to add the mp3 files into the lua script with specific file location or website url.**
